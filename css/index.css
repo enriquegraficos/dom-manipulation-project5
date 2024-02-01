@@ -1,0 +1,24 @@
+@import url(./header.css);
+@import url(./main.css);
+
+:root{
+    font-family: Poppins;
+    --background:linear-gradient(294deg, #C8DCE5 0%, #B6CCDA 100%);
+    --textColor:#B6CCDA;
+    --blanco:#fff;
+    --gray:#434558;
+    --black:#ABC6D6;
+    --pink:#F9CDC4;
+    --cian:#6ADDCC;
+
+}
+
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background: var(--background);
+    display: block;
+    
+}
+
