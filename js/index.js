@@ -15,16 +15,16 @@ window.addEventListener('DOMContentLoaded', function(){
 
 const imagenes = [
     {
-        img: "../01 Store/img/store/01.png",
+        img: "./img/store/01.png",
     },
     {
-        img: "../01 Store/img/store/02.png",
+        img: "./img/store/02.png",
     },
     {
-        img: "../01 Store/img/store/03.png",  
+        img: "./img/store/03.png",  
     },
     {
-        img: "../01 Store/img/store/04.png",  
+        img: "./img/store/04.png",  
     },
     
 ];
